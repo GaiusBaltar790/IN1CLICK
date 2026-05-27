@@ -2,7 +2,7 @@
 
 # Version Update
 
-From 1.3.1 to 1.3.3 on 27th May 2026 by kierknoby
+From 1.3.2 to 1.3.3 on 27th May 2026 by kierknoby
 
 Force C locale to fix awk failures on non-English systems.
 
