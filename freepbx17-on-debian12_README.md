@@ -150,7 +150,7 @@ runcmd:
 ```
 Hello. Thanks for trying IN1CLICK for FreePBX 17 on Debian 12 (bookworm).
 
-In case you need support from 20tele.com, this is IN1CLICK version 1.3.1.
+In case you need support from 20tele.com, this is IN1CLICK version 1.3.3.
 
 Disabling unattended-upgrades for this session...
 Unattended upgrades stopped. OK to proceed.
