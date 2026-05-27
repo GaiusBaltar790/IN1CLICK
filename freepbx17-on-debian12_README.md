@@ -40,6 +40,7 @@ Added screen session support for interactive SSH installs, non-interactive (clou
 ## Requirements
 
 - Debian 12 (bookworm), 64-bit (x86_64)
+- 2 GB RAM Minimum
 - Root access
 - Internet connectivity
 - No existing installation of FreePBX, Asterisk, or MariaDB
