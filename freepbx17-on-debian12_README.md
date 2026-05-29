@@ -307,7 +307,7 @@ Attempting to delete IN1CLICK by 20tele.com: /tmp/IN1CLICK
 The temporary IN1CLICK script was removed successfully.
 Checking... IN1CLICK removal confirmed. OK to proceed.
 
-Thanks for trying IN1CLICK 1.3.1. FreePBX 17 is now ready to use.
+Thanks for trying IN1CLICK 1.3.3. FreePBX 17 is now ready to use.
 
 Please go to http://123.45.67.89 in your preferred web browser.
 
