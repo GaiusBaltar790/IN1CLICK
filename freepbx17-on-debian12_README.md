@@ -48,6 +48,14 @@ Added screen session support for interactive SSH installs, non-interactive (clou
 
 ---
 
+##Security
+
+The one-click installer downloads and executes the latest IN1CLICK installation script over HTTPS. This is the quickest way to get started and is intended for fresh Debian 12 installations.
+
+If you prefer to inspect the installer before running it, or your organisation prohibits executing remote scripts directly, you can download the script from the GitHub repository, review it, and execute it manually instead.
+
+---
+
 ## One-Click Installation on Debian 12
 
 Option 1: run this curl command as root on a fresh Debian 12 installation:
