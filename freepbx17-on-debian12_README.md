@@ -48,7 +48,7 @@ Added screen session support for interactive SSH installs, non-interactive (clou
 
 ---
 
-##Security
+## Security
 
 The one-click installer downloads and executes the latest IN1CLICK installation script over HTTPS. This is the quickest way to get started and is intended for fresh Debian 12 installations.
 
